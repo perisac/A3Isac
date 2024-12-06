@@ -1,0 +1,6 @@
+@A2IsacTP3_HostAddress = http://localhost:5169
+
+GET {{A2IsacTP3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
